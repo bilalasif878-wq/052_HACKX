@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Work Pattern Analyzer",
+  "version": "0.1",
+  "description": "Tracks browser session events for work pattern analysis.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
