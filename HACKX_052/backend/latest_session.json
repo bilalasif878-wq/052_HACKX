@@ -1,0 +1,118 @@
+{
+  "startedAt": 1766919171950,
+  "endedAt": 1766919212113,
+  "durationSec": 40,
+  "events": [
+    {
+      "ts": 1766919173423,
+      "event": "window_focus",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919176075,
+      "event": "updated",
+      "title": "khanacademy.org/test-prep",
+      "domain": "www.khanacademy.org",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919176207,
+      "event": "created",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919176217,
+      "event": "activated",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919181097,
+      "event": "created",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919181380,
+      "event": "activated",
+      "title": "New Tab",
+      "domain": "chrome",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919183689,
+      "event": "removed",
+      "tabId": 569695840
+    },
+    {
+      "ts": 1766919187026,
+      "event": "updated",
+      "title": "drive.google.com/drive/u/0/my-drive",
+      "domain": "drive.google.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919191802,
+      "event": "updated",
+      "title": "web.whatsapp.com",
+      "domain": "web.whatsapp.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919192177,
+      "event": "updated",
+      "title": "My Drive - Google Drive",
+      "domain": "drive.google.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919197245,
+      "event": "window_focus",
+      "windowId": 569695854
+    },
+    {
+      "ts": 1766919197245,
+      "event": "activated",
+      "title": "WhatsApp Web",
+      "domain": "web.whatsapp.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919197245,
+      "event": "activated",
+      "title": "My Drive - Google Drive",
+      "domain": "drive.google.com",
+      "windowId": 569695854
+    },
+    {
+      "ts": 1766919203672,
+      "event": "updated",
+      "title": "WhatsApp Web",
+      "domain": "web.whatsapp.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766919205431,
+      "event": "updated",
+      "title": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "windowId": 569695854
+    },
+    {
+      "ts": 1766919206427,
+      "event": "updated",
+      "title": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "windowId": 569695854
+    },
+    {
+      "ts": 1766919210123,
+      "event": "window_focus",
+      "windowId": 569695538
+    }
+  ]
+}
