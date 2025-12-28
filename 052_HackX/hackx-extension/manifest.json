@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Focus Drift",
+  "version": "0.1",
+  "description": "Tracks browser sessions to surface attention and context-switching patterns.",
+
+  "permissions": [
+    "tabs",
+    "windows"
+  ],
+
+  "host_permissions": [
+    "http://localhost:8000/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

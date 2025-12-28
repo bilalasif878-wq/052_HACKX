@@ -1,0 +1,106 @@
+{
+  "startedAt": 1766815114095,
+  "endedAt": 1766815133661,
+  "durationSec": 20,
+  "events": [
+    {
+      "ts": 1766815115492,
+      "event": "created",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815115507,
+      "event": "activated",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815117135,
+      "event": "updated",
+      "title": "linkedin.com/in/bilal-asif77777/",
+      "domain": "www.linkedin.com"
+    },
+    {
+      "ts": 1766815118077,
+      "event": "removed",
+      "tabId": 1758076180
+    },
+    {
+      "ts": 1766815121301,
+      "event": "created",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815121329,
+      "event": "activated",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815123008,
+      "event": "updated",
+      "title": "lms.fccollege.edu.pk",
+      "domain": "lms.fccollege.edu.pk"
+    },
+    {
+      "ts": 1766815123700,
+      "event": "updated",
+      "title": "Home | LMS",
+      "domain": "lms.fccollege.edu.pk"
+    },
+    {
+      "ts": 1766815124505,
+      "event": "created",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815124531,
+      "event": "activated",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815124965,
+      "event": "removed",
+      "tabId": 1758076187
+    },
+    {
+      "ts": 1766815127844,
+      "event": "updated",
+      "title": "mail.google.com/mail/u/0/?tab=rm&ogbl",
+      "domain": "mail.google.com"
+    },
+    {
+      "ts": 1766815129729,
+      "event": "updated",
+      "title": "Gmail",
+      "domain": "mail.google.com"
+    },
+    {
+      "ts": 1766815130514,
+      "event": "created",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815130537,
+      "event": "activated",
+      "title": "New tab",
+      "domain": ""
+    },
+    {
+      "ts": 1766815131382,
+      "event": "removed",
+      "tabId": 1758076188
+    },
+    {
+      "ts": 1766815133582,
+      "event": "updated",
+      "title": "(22) Muhammad Bilal Asif | LinkedIn",
+      "domain": "www.linkedin.com"
+    }
+  ]
+}
