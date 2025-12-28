@@ -1,0 +1,177 @@
+{
+  "startedAt": 1766927551299,
+  "endedAt": 1766927605295,
+  "durationSec": 54,
+  "events": [
+    {
+      "ts": 1766927553132,
+      "event": "window_focus",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927563706,
+      "event": "updated",
+      "title": "google.com/search?q=fcc+empower&oq=&gs_lcrp=EgZjaHJvbWUqEggAECMYJxjqAhjdBRidBhjoBjISCAAQIxgnGOoCGN0FGJ0GGOgGMgkIARAjGCcY6gIyEggCEC4YJxjqAhjdBRidBhjoBjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQo2ODU5ODhqMGo3qAIIsAIB8QX3O_Kfn_BUaw&sourceid=chrome&ie=UTF-8",
+      "domain": "www.google.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927566568,
+      "event": "updated",
+      "title": "mysis.fccollege.edu.pk",
+      "domain": "mysis.fccollege.edu.pk",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927566807,
+      "event": "updated",
+      "title": "mysis.fccollege.edu.pk",
+      "domain": "mysis.fccollege.edu.pk",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927568242,
+      "event": "updated",
+      "title": "mysis-fccollege.empower-xl.com",
+      "domain": "mysis-fccollege.empower-xl.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927568246,
+      "event": "created",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927568246,
+      "event": "updated",
+      "title": "mysis-fccollege.empower-xl.com",
+      "domain": "mysis-fccollege.empower-xl.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927568247,
+      "event": "activated",
+      "title": "New Tab",
+      "domain": "chrome",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927570741,
+      "event": "created",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927570788,
+      "event": "activated",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927571131,
+      "event": "updated",
+      "title": "web.whatsapp.com",
+      "domain": "web.whatsapp.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927572220,
+      "event": "updated",
+      "title": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927573258,
+      "event": "updated",
+      "title": "LinkedIn",
+      "domain": "www.linkedin.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927575473,
+      "event": "updated",
+      "title": "WhatsApp Web",
+      "domain": "web.whatsapp.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927577144,
+      "event": "window_focus",
+      "windowId": 569696063
+    },
+    {
+      "ts": 1766927577146,
+      "event": "activated",
+      "title": "WhatsApp Web",
+      "domain": "web.whatsapp.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927577147,
+      "event": "activated",
+      "title": "(2) Feed | LinkedIn",
+      "domain": "www.linkedin.com",
+      "windowId": 569696063
+    },
+    {
+      "ts": 1766927580519,
+      "event": "updated",
+      "title": "youtube.com",
+      "domain": "www.youtube.com",
+      "windowId": 569696063
+    },
+    {
+      "ts": 1766927585611,
+      "event": "updated",
+      "title": "(780) YouTube",
+      "domain": "www.youtube.com",
+      "windowId": 569696063
+    },
+    {
+      "ts": 1766927586847,
+      "event": "window_focus",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927588978,
+      "event": "removed",
+      "tabId": 569696057
+    },
+    {
+      "ts": 1766927588997,
+      "event": "activated",
+      "title": "mysis-fccollege.empower-xl.com",
+      "domain": "mysis-fccollege.empower-xl.com",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927591170,
+      "event": "created",
+      "title": "New Tab",
+      "domain": "",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927591177,
+      "event": "activated",
+      "title": "New Tab",
+      "domain": "chrome",
+      "windowId": 569695538
+    },
+    {
+      "ts": 1766927592701,
+      "event": "removed",
+      "tabId": 569696054
+    },
+    {
+      "ts": 1766927603971,
+      "event": "window_focus",
+      "windowId": 569695538
+    }
+  ]
+}
